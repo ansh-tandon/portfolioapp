@@ -33,7 +33,7 @@ class Home extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      "STUDENT",
+                      "App Developer & Data Science Enthusiast",
                       style: TextStyle(fontSize: 13),
                     )
                   ],
@@ -75,7 +75,7 @@ class Home extends StatelessWidget {
                         width: 25,
                       ),
                       Text(
-                        "C Programming, HTML, CSS",
+                        "C Programming, Python, Microsoft Azure, HTML, CSS",
                         style: TextStyle(fontSize: 17),
                       )
                     ],
